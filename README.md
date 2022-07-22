@@ -1,7 +1,7 @@
 WorkManager Codelab
 ===================================
 
-This repository contains the code for the, I clone this project to learn and add some comment for notify me to understand about some function and class
+This repository contains the code. I clone this project to learn and add some comment for notify me to understand about some function and class
 [WorkManager Codelab](https://codelabs.developers.google.com/codelabs/android-workmanager):
 
 Java version
