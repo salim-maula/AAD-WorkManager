@@ -1,7 +1,7 @@
 WorkManager Codelab
 ===================================
 
-This repository contains the code for the
+This repository contains the code. I clone this project to learn and add some comment for notify me to understand about some function and class
 [WorkManager Codelab](https://codelabs.developers.google.com/codelabs/android-workmanager):
 
 Java version
@@ -44,14 +44,6 @@ In particular:
 * Familiarity with [LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
   and [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
 
-Getting Started
----------------
-
-1. [Install Android Studio](https://developer.android.com/studio/install.html),
-if you don't already have it.
-2. Download the sample.
-2. Import the sample into Android Studio.
-3. Build and run the sample.
 
 License
 -------
